@@ -4,7 +4,7 @@ Real-time 3D particle system controlled by hand gestures.
 Built with Three.js + MediaPipe Hands.
 
 ## Live Demo
-[Open in browser](https://YOUR-USERNAME.github.io/gesture-particle-universe/particle-system.html)
+[Open in browser](https://aaradhy-singh.github.io/gesture-particle-universe/)
 
 ## Gestures
 | Gesture | Action |
